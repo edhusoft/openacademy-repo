@@ -77,11 +77,8 @@
                         <field name="seats"/>
                         <field name="instructor_id"/>
                         <field name="course_id"/>
-                        <!--
                         <label for="attendee_ids"/>
                         <field name="attendee_ids" nolabel="1"/>
-                      -->
-                        <field name="attendee_ids"/>
                     </group>
                 </sheet>
             </form>
